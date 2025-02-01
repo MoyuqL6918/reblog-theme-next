@@ -117,6 +117,12 @@ export default defineConfig({
       desc: "明日尚未到来，希望凝于心上",
       link: "https://tnxg.top",
       feed: "https://tnxgmoe.com/feed",
+    },
+    {
+      name: "MoyuqLのBlog",
+      desc: "MoyuqL与你同在~",
+      link: "https://blog.moyuql.top",
+      feed: "https://blog.moyuql.top/feed/",
     }
   ],
   twikoo: {
